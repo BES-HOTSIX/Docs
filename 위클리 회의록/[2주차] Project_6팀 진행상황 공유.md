@@ -97,3 +97,6 @@
 [백엔드](https://github.com/BES-HOTSIX/HOTSIX_BE)
 
 [6팀 노션](https://www.notion.so/6-6d76a8dca3b148a3ba72afe1a2ec23ea)
+
+![6팀1](https://github.com/BES-HOTSIX/Docs/assets/96820952/758d256b-9579-4184-b31c-4b3d2bf65e8c)
+
